@@ -17,7 +17,7 @@ To help monitor the spread and density of these urchins, I've developed a custom
 After training the model on a custom dataset, the initial results are promising (mAP50 for urchins around 0.889). The system can process video, overlaying detections and tracking trails, and provide a running count of unique urchins observed.
 
 ![kina_devastated_reef_cape_runaway_annotated_frame_004_vidframe_2038](https://github.com/user-attachments/assets/b7954e83-0172-48f0-bd02-35284846e5d3)
-![Urchin Tracking Summary GIF](./assets/model_overview.gif)
+![Urchin Tracking Summary GIF](https://github.com/roboticsmick/ORCA_URCHIN_TRACKING/blob/main/assets/model_overview.gif)
 
 **Why This Matters & The Bigger Picture**
 
