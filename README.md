@@ -16,7 +16,7 @@ To help monitor the spread and density of these urchins, I've developed a custom
 
 After training the model on a custom dataset, the initial results are promising (mAP50 for urchins around 0.889). The system can process video, overlaying detections and tracking trails, and provide a running count of unique urchins observed.
 
-![Urchin Tracking Summary GIF](assets/model_overview.gif)
+![Urchin Tracking Summary GIF](./assets/model_overview.gif)
 
 **Why This Matters & The Bigger Picture**
 
